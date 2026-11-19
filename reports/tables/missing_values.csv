@@ -1,0 +1,12 @@
+,dtype,n_missing,pct_missing,n_unique
+MonthlyIncome,float64,29731,19.82,13594
+NumberOfDependents,float64,3924,2.62,13
+SeriousDlqin2yrs,int64,0,0.0,2
+age,int64,0,0.0,86
+RevolvingUtilizationOfUnsecuredLines,float64,0,0.0,125728
+DebtRatio,float64,0,0.0,114194
+NumberOfTime30-59DaysPastDueNotWorse,int64,0,0.0,16
+NumberOfOpenCreditLinesAndLoans,int64,0,0.0,58
+NumberOfTimes90DaysLate,int64,0,0.0,19
+NumberRealEstateLoansOrLines,int64,0,0.0,28
+NumberOfTime60-89DaysPastDueNotWorse,int64,0,0.0,13

@@ -1,0 +1,9 @@
+check,n,pct_of_rows
+"NumberOfTime30-59DaysPastDueNotWorse in (96, 98)",269,0.179
+"NumberOfTime60-89DaysPastDueNotWorse in (96, 98)",269,0.179
+"NumberOfTimes90DaysLate in (96, 98)",269,0.179
+age == 0,1,0.001
+age > 100,13,0.009
+RevolvingUtilization > 1,3321,2.214
+DebtRatio > 10,28877,19.251
+any negative value across features,0,0.0
